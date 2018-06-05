@@ -1,0 +1,22 @@
+Proyecto Carreras
+
+Requisitos del Proyecto:
+
+-Se divide en capas para colsiones
+ 1° Fondo
+ 2° Pista y elementos de la pista
+ 3° Obtsaculos
+
+-La resolucion es ajustable dependiente de los tiles.
+
+-Pantalla con grillas para modificar el diseño del mapa.
+
+-GUI.
+
+-Modificación de los materiales bases.
+
+-Carga de archivos externos.
+
+-Guardado de archivos.
+
+-El programa genera un archivo (.txt) para ser leido desde otras aplicaciones.
