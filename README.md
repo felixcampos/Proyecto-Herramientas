@@ -17,7 +17,7 @@ FInal Proyect Overwiev
 
 ### Screenshots
 
-![sc1](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/images/maqueta.png)
+![sc1](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/images/maqueta.jpg)
 
 ### Formato
 
