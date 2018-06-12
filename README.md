@@ -14,7 +14,7 @@ FInal Proyect Overwiev
 ## Presentación 1
 ## GUI
 ### Screenshots
-![sc1](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/images/maqueta.png)
+![sc1](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/images/maqueta.psd)
 ### Formato
 - 
 
