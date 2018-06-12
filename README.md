@@ -8,4 +8,4 @@ FInal Proyect Overwiev
 #Integrante
 - Campos, Felix
 
-- Mendoza, Ricardo
+- Mendoza, Ricardo.
