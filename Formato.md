@@ -5,7 +5,7 @@
 
 ### Screenshots
 
-![sc1](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/images/maqueta.jpg)
+![sc1](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/Proyecto%20v1/images%20final/maqueta.png)
 
 ### Formato
 
