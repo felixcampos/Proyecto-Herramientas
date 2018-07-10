@@ -32,4 +32,4 @@
 ## Presentación 2
 - El programa guarda datos dentro de un .txt
 - 1° Version de la herramienta
-![sc2](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/Proyecto%20v1/images%20final/pres2.png)
+![sc2](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/Proyecto%20v1/pres2.png)
