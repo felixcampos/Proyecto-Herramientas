@@ -43,4 +43,4 @@
 - Carga y guarda sus formatos.
 - Úlitma version de la herramienta.
 
-![:(](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/Proyecto%20v1/pres2.png)
+![:(](https://github.com/felixcampos/Proyecto-Herramientas/blob/master/Proyecto%20v1/finalVer.png)
